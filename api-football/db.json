@@ -1,0 +1,44 @@
+{
+  "country": [
+    {
+      "id": "qatar",
+      "name" : "Qatar",
+      "continents": "AFC",
+      "rank": 60,
+      "manager": "Félix Sánchez Bas",
+      "captain": "Hassan Al-Haidos",
+      "achievements": "Group state",
+      "image": "https://iweb.tatthanh.com.vn/pic/12/news/images/doi-tuyen-qatar-world-cup-2022.jpeg"
+    },
+    {
+      "id": "ecuador",
+      "name" : "Ecuador",
+      "continents": "Conmebol",
+      "rank": 41,
+      "manager": "Gustavo Alfaro",
+      "captain": "Enner Valencia",
+      "achievements": "Group state",
+      "image": "https://assets.khelnow.com/news/uploads/2022/11/Ecuador-Team-Photo-1024x683-1.jpg"
+    },
+    {
+      "id": "senegal",
+      "name" : "Senegal",
+      "continents": "CAF",
+      "rank": 19,
+      "manager": "Aliou Cissé",
+      "captain": "Kalidou Koulibaly",
+      "achievements": "Pass group state",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-03-25T193608Z_2087269760_UP1EI3P1IG5U5_RTRMADP_3_SOCCER-WORLDCUP-EGY-SEN-REPORT.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": "netherland",
+      "name" : "Hà Lan",
+      "continents": "UEFA",
+      "rank": 6,
+      "manager": "Louis Van Gaal",
+      "captain": "Virgil van Dijk",
+      "achievements": "Quarterfinals",
+      "image": "https://assets.khelnow.com/news/uploads/2022/11/202206211405-main.cropped_1655795163.jpg"
+    }
+  ]
+}
