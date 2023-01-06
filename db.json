@@ -55,17 +55,7 @@
       "captain": "Hassan Al-Haidos",
       "achievements": "Group state",
       "image": "https://iweb.tatthanh.com.vn/pic/12/news/images/doi-tuyen-qatar-world-cup-2022.jpeg",
-      "description": [
-        {
-          "title": "Đội tuyển bóng đá quốc gia Qatar là đội tuyển cấp quốc gia của Qatar do Hiệp hội bóng đá Qatar quản lý."
-        },
-        {
-          "title": "Đội tuyển Qatar hiện là đương kim vô địch châu Á sau khi lên ngôi tại Asian Cup 2019."
-        },
-        {
-          "title": "Ngoài ra, đội có chức vô địch Tây Á 2014 và 3 chức vô địch vùng Vịnh vào các năm 1992, 2004 và 2014, Qatar là đội bóng thứ hai của châu Á và là đội bóng Ả Rập đầu tiên được tham dự Copa América 2019 với tư cách là khách mời."
-        }
-      ]
+      "description": "Đội tuyển bóng đá quốc gia Qatar là đội tuyển cấp quốc gia của Qatar do Hiệp hội bóng đá Qatar quản lý."
     },
     {
       "id": "ecuador",
@@ -76,17 +66,7 @@
       "captain": "Enner Valencia",
       "achievements": "Group state",
       "image": "https://assets.khelnow.com/news/uploads/2022/11/Ecuador-Team-Photo-1024x683-1.jpg",
-      "description": [
-        {
-          "title": "Đội tuyển bóng đá quốc gia Ecuador (tiếng Tây Ban Nha: Selección de fútbol de Ecuador) là đội tuyển cấp quốc gia của Ecuador do Liên đoàn bóng đá Ecuador quản lý."
-        },
-        {
-          "title": "Trận thi đấu quốc tế đầu tiên của đội tuyển Ecuador là trận gặp đội tuyển Bolivia vào năm 1938."
-        },
-        {
-          "title": "Thành tích tốt nhất của đội cho đến nay là lọt vào vòng 2 của World Cup 2006, 2 lần vị trí thứ tư Copa América giành được vào các năm 1959, 1993 và tấm huy chương vàng của đại hội Thể thao liên châu Mỹ 2007."
-        }
-      ]
+      "description": "Đội tuyển bóng đá quốc gia Ecuador (tiếng Tây Ban Nha: Selección de fútbol de Ecuador) là đội tuyển cấp quốc gia của Ecuador do Liên đoàn bóng đá Ecuador quản lý."
     },
     {
       "id": "senegal",
@@ -97,17 +77,7 @@
       "captain": "Kalidou Koulibaly",
       "achievements": "Pass group state",
       "image": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-03-25T193608Z_2087269760_UP1EI3P1IG5U5_RTRMADP_3_SOCCER-WORLDCUP-EGY-SEN-REPORT.jpg?resize=1920%2C1440",
-      "description": [
-        {
-          "title": "Đội tuyển bóng đá quốc gia Sénégal (tiếng Pháp: Équipe du Sénégal de football) là đội tuyển cấp quốc gia của Sénégal do Liên đoàn bóng đá Sénégal quản lý."
-        },
-        {
-          "title": "Trận quốc tế đầu tiên của đội tuyển Sénégal là trận đấu gặp Bénin vào năm 1961."
-        },
-        {
-          "title": "Thành tích tốt nhất của đội cho đến nay là lọt vào tứ kết World Cup 2002 ở ngay lần đầu tham dự giải và chức vô địch CAN 2021."
-        }
-      ]
+      "description": "Đội tuyển bóng đá quốc gia Sénégal (tiếng Pháp: Équipe du Sénégal de football) là đội tuyển cấp quốc gia của Sénégal do Liên đoàn bóng đá Sénégal quản lý."
     },
     {
       "id": "netherland",
@@ -118,17 +88,7 @@
       "captain": "Virgil van Dijk",
       "achievements": "Quarterfinals",
       "image": "https://assets.khelnow.com/news/uploads/2022/11/202206211405-main.cropped_1655795163.jpg",
-      "description": [
-        {
-          "title": "Đội tuyển bóng đá quốc gia Hà Lan (tiếng Hà Lan: Het Nederlands Elftal) là đội tuyển đại diện cho Hà Lan trên bình diện quốc tế kể từ năm 1905."
-        },
-        {
-          "title": "Đội tuyển quốc gia được kiểm soát bởi Hiệp hội bóng đá Hoàng gia Hà Lan (KNVB), cơ quan quản lý bóng đá ở Hà Lan, là một bộ phận của UEFA, và thuộc thẩm quyền của FIFA."
-        },
-        {
-          "title": "Họ được coi là một trong những đội tuyển quốc gia xuất sắc nhất của bóng đá thế giới và được mọi người đánh giá là một trong những đội tuyển quốc gia vĩ đại nhất mọi thời đại."
-        }
-      ]
+      "description": "Đội tuyển bóng đá quốc gia Hà Lan (tiếng Hà Lan: Het Nederlands Elftal) là đội tuyển đại diện cho Hà Lan trên bình diện quốc tế kể từ năm 1905."
     }
   ]
 }
