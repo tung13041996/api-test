@@ -54,7 +54,21 @@
       "manager": "Félix Sánchez Bas",
       "captain": "Hassan Al-Haidos",
       "achievements": "Group state",
-      "image": "https://iweb.tatthanh.com.vn/pic/12/news/images/doi-tuyen-qatar-world-cup-2022.jpeg"
+      "image": "https://iweb.tatthanh.com.vn/pic/12/news/images/doi-tuyen-qatar-world-cup-2022.jpeg",
+      "description": [
+        {
+          "title": "Đội tuyển bóng đá quốc gia Qatar là đội tuyển cấp quốc gia của Qatar do Hiệp hội bóng đá Qatar quản lý. Đội tuyển Qatar hiện là đương kim vô địch châu Á sau khi lên ngôi tại Asian Cup 2019. Ngoài ra, đội có chức vô địch Tây Á 2014 và 3 chức vô địch vùng Vịnh vào các năm 1992, 2004 và 2014, Qatar là đội bóng thứ hai của châu Á và là đội bóng Ả Rập đầu tiên được tham dự Copa América 2019 với tư cách là khách mời. Đội đã một lần tham dự World Cup vào năm 2022 với tư cách là chủ nhà. Tại giải năm đó, đội đã để thua cả 3 trận trước Hà Lan, Sénégal và Ecuador, qua đó trở thành chủ nhà thứ hai bị loại ở vòng bảng, sau Nam Phi năm 2010."
+        },
+        {
+          "title": "Giải vô địch bóng đá thế giới Qatar chơi trận vòng loại World Cup đầu tiên năm 1977 hạ Bahrain 2–0 trên sân nhà Doha. Qatar không thành công với những cố gắng vượt qua vòng loại World Cup. Tuy nhiên vào tháng 12 năm 2010, họ trở thành chủ nhà World Cup cho kỳ 2022,[5] trở thành đội đầu tiên ở khu vực Trung Đông đăng cai sự kiện này."
+        },
+        {
+          "title": "Lần đầu tiên của Qatar ở Asian Cup là vào năm 1980 sau khi vượt qua vòng loại ở cùng bảng đấu với Bangladesh và Afghanistan. Họ dừng bước ở vòng bảng vòng chung kết, thua hai, hòa một và thắng một. Đội dừng bước ở vòng bảng Asian Cup 1988 nhưng có chiến thắng gây chú ý trước Nhật Bản với tỷ số 3–0. Đội lọt vào tứ kết Asian Cup 2000 dù chỉ đứng thứ ba vòng bảng, thua Trung Quốc ở tứ kết. Qatar khép lại thế kỷ XX bằng việc kết thúc ở trong tốp 10 tất cả các kỳ Asian Cup. Sau đó, đội bóng vùng Vịnh lại có dấu hiệu chững lại, chỉ kết thúc ở vị trí thứ 14 cả hai kỳ 2004 và 2007. Năm 2011 với tư cách chủ nhà, Qatar lập lại thành tích vào tứ kết châu lục, lần này đứng thứ 7 chung cuộc, thành tích tốt nhất của đội trước khi lột xác và đột phá ở Asian Cup 2019.[7]"
+        },
+        {
+          "title": "Lần đầu tiên của Qatar ở Asian Cup là vào năm 1980 sau khi vượt qua vòng loại ở cùng bảng đấu với Bangladesh và Afghanistan. Họ dừng bước ở vòng bảng vòng chung kết, thua hai, hòa một và thắng một. Đội dừng bước ở vòng bảng Asian Cup 1988 nhưng có chiến thắng gây chú ý trước Nhật Bản với tỷ số 3–0. Đội lọt vào tứ kết Asian Cup 2000 dù chỉ đứng thứ ba vòng bảng, thua Trung Quốc ở tứ kết. Qatar khép lại thế kỷ XX bằng việc kết thúc ở trong tốp 10 tất cả các kỳ Asian Cup. Sau đó, đội bóng vùng Vịnh lại có dấu hiệu chững lại, chỉ kết thúc ở vị trí thứ 14 cả hai kỳ 2004 và 2007. Năm 2011 với tư cách chủ nhà, Qatar lập lại thành tích vào tứ kết châu lục, lần này đứng thứ 7 chung cuộc, thành tích tốt nhất của đội trước khi lột xác và đột phá ở Asian Cup 2019.[7]"
+        }
+      ]
     },
     {
       "id": "ecuador",
@@ -64,7 +78,12 @@
       "manager": "Gustavo Alfaro",
       "captain": "Enner Valencia",
       "achievements": "Group state",
-      "image": "https://assets.khelnow.com/news/uploads/2022/11/Ecuador-Team-Photo-1024x683-1.jpg"
+      "image": "https://assets.khelnow.com/news/uploads/2022/11/Ecuador-Team-Photo-1024x683-1.jpg",
+      "description": [
+        {
+          "title": "Đội tuyển bóng đá quốc gia Ecuador (tiếng Tây Ban Nha: Selección de fútbol de Ecuador) là đội tuyển cấp quốc gia của Ecuador do Liên đoàn bóng đá Ecuador quản lý. Trận thi đấu quốc tế đầu tiên của đội tuyển Ecuador là trận gặp đội tuyển Bolivia vào năm 1938. Thành tích tốt nhất của đội cho đến nay là lọt vào vòng 2 của World Cup 2006, 2 lần vị trí thứ tư Copa América giành được vào các năm 1959, 1993 và tấm huy chương vàng của đại hội Thể thao liên châu Mỹ 2007."
+        }
+      ]
     },
     {
       "id": "senegal",
@@ -74,7 +93,12 @@
       "manager": "Aliou Cissé",
       "captain": "Kalidou Koulibaly",
       "achievements": "Pass group state",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-03-25T193608Z_2087269760_UP1EI3P1IG5U5_RTRMADP_3_SOCCER-WORLDCUP-EGY-SEN-REPORT.jpg?resize=1920%2C1440"
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-03-25T193608Z_2087269760_UP1EI3P1IG5U5_RTRMADP_3_SOCCER-WORLDCUP-EGY-SEN-REPORT.jpg?resize=1920%2C1440",
+      "description": [
+        {
+          "title": "Đội tuyển bóng đá quốc gia Sénégal (tiếng Pháp: Équipe du Sénégal de football) là đội tuyển cấp quốc gia của Sénégal do Liên đoàn bóng đá Sénégal quản lý. Trận quốc tế đầu tiên của đội tuyển Sénégal là trận đấu gặp Bénin vào năm 1961. Thành tích tốt nhất của đội cho đến nay là lọt vào tứ kết World Cup 2002 ở ngay lần đầu tham dự giải và chức vô địch CAN 2021."
+        }
+      ]
     },
     {
       "id": "netherland",
@@ -84,7 +108,21 @@
       "manager": "Louis Van Gaal",
       "captain": "Virgil van Dijk",
       "achievements": "Quarterfinals",
-      "image": "https://assets.khelnow.com/news/uploads/2022/11/202206211405-main.cropped_1655795163.jpg"
+      "image": "https://assets.khelnow.com/news/uploads/2022/11/202206211405-main.cropped_1655795163.jpg",
+      "description": [
+        {
+          "title": "Đội tuyển bóng đá quốc gia Hà Lan (tiếng Hà Lan: Het Nederlands Elftal) là đội tuyển đại diện cho Hà Lan trên bình diện quốc tế kể từ năm 1905. Đội tuyển quốc gia được kiểm soát bởi Hiệp hội bóng đá Hoàng gia Hà Lan (KNVB), cơ quan quản lý bóng đá ở Hà Lan, là một bộ phận của UEFA, và thuộc thẩm quyền của FIFA. Họ được coi là một trong những đội tuyển quốc gia xuất sắc nhất của bóng đá thế giới và được mọi người đánh giá là một trong những đội tuyển quốc gia vĩ đại nhất mọi thời đại. Hầu hết các trận đấu trên sân nhà của Hà Lan đều diễn ra tại Johan Cruyff Arena và Stadion Feijenoord. Đội được gọi một cách thông tục là Het Nederlands Elftal (The Dutch Eleven) hoặc Oranje, sau Ngôi nhà của Orange-Nassau và chiếc áo đấu màu cam đặc biệt của họ. Giống như chính quốc gia này, đội này đôi khi (cũng được gọi một cách thông tục) là Holland. Cổ động viên được biết đến với cái tên 'Het Oranje Legioen' (The Orange Legion). Hà Lan đã tham dự 11 kỳ FIFA World Cup, góp mặt trong các trận chung kết 3 lần (vào các năm 1974, 1978 và 2010). Họ cũng đã góp mặt mười lần tại giải vô địch bóng đá châu Âu, vô địch giải đấu năm 1988 ở Tây Đức. Ngoài ra, đội đã giành được huy chương đồng tại Olympic vào các năm 1908, 1912 và 1920. Hà Lan có những đối thủ bóng đá lâu đời với các nước láng giềng Bỉ và Đức."
+        },
+        {
+          "title": "Đội tuyển bóng đá quốc gia Hà Lan nổi tiếng thi đấu trong màu áo cam rực rỡ. Màu cam là màu quốc gia lịch sử của Hà Lan, có nguồn gốc từ một trong nhiều chức danh của nguyên thủ quốc gia, Thân vương xứ Oranje. Áo đấu sân khách hiện tại của Hà Lan có màu đen. Sư tử trên huy hiệu là linh vật quốc gia và hoàng gia Hà Lan và đã có trên huy hiệu từ năm 1907 khi họ giành chiến thắng 3-1 trước Bỉ. Nike là nhà cung cấp bộ quần áo bóng đá của đội tuyển quốc gia, một khoản tài trợ bắt đầu từ năm 1996 và được ký hợp đồng tiếp tục cho đến ít nhất là năm 2026. Trước đó, đội được cung cấp bởi Adidas và Lotto."
+        },
+        {
+          "title": "Bắt nguồn sâu xa từ chuyện chống Đức do bị Đức chiếm đóng Hà Lan trong Thế chiến thứ hai, đối thủ truyền kiếp của Hà Lan là Đức. Bắt đầu từ năm 1974, khi người Hà Lan thua Tây Đức ở World Cup 1974 trong trận chung kết, sự kình địch giữa hai quốc gia đã trở thành một trong những trận đấu nổi tiếng nhất trong làng bóng đá quốc tế. Ở một mức độ thấp hơn, Hà Lan duy trì sự cạnh tranh với quốc gia láng giềng khác của họ, Bỉ; Trận đấu giữa Bỉ và Hà Lan được gọi là trận derby Vùng nước thấp. Họ đã thi đấu 126 trận tính đến tháng 5 năm 2018 và cả hai thi đấu với nhau thường xuyên từ năm 1905 đến năm 1964. Điều này đã giảm bớt do sự trỗi dậy của bóng đá bán chuyên nghiệp."
+        },
+        {
+          "title": "Đội tuyển quốc gia Hà Lan không có sân vận động quốc gia mà chủ yếu thi đấu tại Sân vận động Johan Cruyff ở Amsterdam. Nó đã tổ chức trận đấu quốc tế đầu tiên của Hà Lan vào năm 1997, trận đấu vòng loại World Cup 1998 với San Marino mà Hà Lan đã thắng 4–0. Nó chính thức được gọi là Amsterdam Arena cho đến năm 2018 khi nó được đổi tên để tưởng nhớ Johan Cruyff. Trong vài năm qua, De Kuip ở Rotterdam tổ chức các trận đấu thường xuyên hơn. Đôi khi, các trận đấu diễn ra tại Philips Stadion ở Eindhoven và De Grolsch Veste ở Enschede."
+        }
+      ]
     }
   ]
 }
